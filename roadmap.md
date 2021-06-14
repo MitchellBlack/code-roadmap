@@ -134,7 +134,7 @@ Once ACS starts delivering products that are used to make real decisions
 (i.e. beyond the initial 6-month period),
 provenance tracking (with Zenodo integration) alone isn't enough.
 There also needs to be processes in place to ensure the quality/reliability of the code we use
-(and the consistency of the metadata associated with the data files we produce).
+(and the consistency of the associated metadata associated with the data files we produce). Consideration also needs to be given the data structure (e.g., consistent set of variable names) as well as an approriate file naming conventions.
 Different products might require different levels of quality control
 (e.g. [Harrison et al, 2021](https://doi.org/10.5281/zenodo.4761866)),
 but in general for products that we're producing/reproducing regularly
